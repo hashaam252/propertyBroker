@@ -1,0 +1,129 @@
+{
+  "project_info": {
+    "project_number": "709581163216",
+    "project_id": "sewan-kshf",
+    "storage_bucket": "sewan-kshf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709581163216:android:7e2723cf9fd8acfc2fecd5",
+        "android_client_info": {
+          "package_name": "com.brightqtr.Sewan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709581163216-44gb7u52r7d8jha5jjvtsjohbil3jr0b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brightqtr.Sewan",
+            "certificate_hash": "c109c4bf302cba038e9208cfefec8b24dc7fca13"
+          }
+        },
+        {
+          "client_id": "709581163216-d2qrtjml3pfcf5m0boorac2dum0n8k72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmlfN2rQcaxRBvuGkRf4qTpdx1pxFPwq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709581163216-d2qrtjml3pfcf5m0boorac2dum0n8k72.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "709581163216-u536tholppnco1v1tlaolb2qe4bo90tv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.brightqtr.Sewan",
+                "app_store_id": "1556243972"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709581163216:android:033796243c1e1e5c2fecd5",
+        "android_client_info": {
+          "package_name": "com.brightqtr.propertybrokers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709581163216-d2qrtjml3pfcf5m0boorac2dum0n8k72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmlfN2rQcaxRBvuGkRf4qTpdx1pxFPwq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709581163216-d2qrtjml3pfcf5m0boorac2dum0n8k72.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "709581163216-u536tholppnco1v1tlaolb2qe4bo90tv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.brightqtr.Sewan",
+                "app_store_id": "1556243972"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709581163216:android:55ca6074a91d04a72fecd5",
+        "android_client_info": {
+          "package_name": "com.package.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709581163216-d2qrtjml3pfcf5m0boorac2dum0n8k72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmlfN2rQcaxRBvuGkRf4qTpdx1pxFPwq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709581163216-d2qrtjml3pfcf5m0boorac2dum0n8k72.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "709581163216-u536tholppnco1v1tlaolb2qe4bo90tv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.brightqtr.Sewan",
+                "app_store_id": "1556243972"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
